@@ -93,7 +93,5 @@ python3 main.py
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
-
-## Support   
-Join Our [Telegram Group](https://t.me/+kAh07hUHdt9mZjFl) For Support/Assistance And Our [Channel](https://t.me/+kAh07hUHdt9mZjFl) For Updates.   
+   
    
